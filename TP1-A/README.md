@@ -1,3 +1,3 @@
-https://www.youtube.com/watch?v=1dOCHwf8zVQ //Explicação do Heartbleed Bug
+# TP1-A
 
-https://tools.ietf.org/html/rfc6520 //Documentação do OpenSS
+Pasta com resolução do TP1-Parte A
