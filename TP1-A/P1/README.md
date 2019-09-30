@@ -4,7 +4,15 @@
 
 #### CVE-2019-5796
 
+https://nvd.nist.gov/vuln/detail/CVE-2019-5796
+
+https://bugs.chromium.org/p/chromium/issues/detail?id=918861
+
 #### CVE-2019-5789
+
+https://nvd.nist.gov/vuln/detail/CVE-2019-5789
+
+https://bugs.chromium.org/p/chromium/issues/detail?id=921581
 
 ### Python
 
