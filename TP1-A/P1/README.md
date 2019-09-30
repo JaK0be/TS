@@ -14,7 +14,11 @@ https://nvd.nist.gov/vuln/detail/CVE-2019-9948
 
 https://bugs.python.org/issue35907
 
-#### 
+#### CVE-2019-9740
+
+https://nvd.nist.gov/vuln/detail/CVE-2019-9740
+
+https://bugs.python.org/issue36276
 
 ### Evernote
 
