@@ -26,16 +26,16 @@ def cifra():
 	key = kdf.derive(passwordBytes)
 	#converter para base 64
 	k = base64.b64encode(key)
+	print(k)
 	f = Fernet(k)
 	conteudo = file.read(1024)
 	token = f.encrypt(conteudo)
-	#while(conteudo):
-	#	token = f.encrypt(conteudo)
-	#	conteudo = ff.read(1024)
+	print(token)
 	fc.write(token)
 
 def decifra():
-	fc = open("ficheirocifrado.txt","rb") #ficheiro cifrado
+	file = open("ficheirocifrado.txt","rb") #ficheiro cifrado
+	fc = open("decifrado.txt","wb")
 	password = getpass.getpass()
 	passwordBytes = password.encode()
 	backend = default_backend()
@@ -48,19 +48,17 @@ def decifra():
 	    backend=backend
 	)
 	key = kdf.derive(passwordBytes)
-	kdf.verify(passwordBytes, key)
-	print("Tudo correu bem")
-	#falta a parte do fernet
+	k = base64.b64encode(key)
+	print(k)
+	print("\n")
+	f = Fernet(k)
+	token = file.read(1024)
+	print(token)
+	#fc.write(f.decrypt(token))
+	#kdf.verify(passwordBytes, key)
+	#print("Tudo correu bem")
 
-# verify
-#kdf = PBKDF2HMAC(
-#    algorithm=hashes.SHA256(),
-#    length=32,
-#    salt=salt,
-#    iterations=100000,
-#    backend=backend
-#)
 #kdf.verify(b"my great password", key)
 
-#cifra()
+cifra()
 decifra()
