@@ -24,6 +24,8 @@ https://nvd.nist.gov/vuln/detail/CVE-2019-16692
 
 https://github.com/phpipam/phpipam/issues/2738
 
+https://www.cybersecurity-help.cz/vdb/SB2019092301?affChecked=1
+
 #### CVE-2019-16759
 
 https://nvd.nist.gov/vuln/detail/CVE-2019-16759
