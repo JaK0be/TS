@@ -1,14 +1,27 @@
 # Pergunta 5
 
-https://www.mozilla.org/en-US/security/advisories/mfsa2019-26/#CVE-2019-11751 -- Relatório da mozilla com informação sobre as vulnerabilities 
-
-Não existe muita informação sobre os CVE's listados no relatório da mozilla, vai ser complicado responder a esta pergunta
+https://www.mozilla.org/en-US/security/advisories/mfsa2019-26/#CVE-2019-11751 -- Relatório da mozilla com informação sobre as vulnerabilities
 
 ### CVE-2019-11751
 
-> Logging-related command line parameters are not properly sanitized when Firefox is launched by another program, such as when a user clicks on malicious links in a chat application. This can be used to write a log file to an arbitrary location such as the Windows 'Startup' folder.
-Note: this issue only affects Firefox on Windows operating systems.
+https://nvd.nist.gov/vuln/detail/CVE-2019-11751
+
+https://www.cvedetails.com/cve/CVE-2019-11751/
 
 https://cwe.mitre.org/data/definitions/20.html
 
-##### Falta escolher mais duas CVE
+### CVE-2019-11746
+
+https://nvd.nist.gov/vuln/detail/CVE-2019-11746
+
+https://www.cvedetails.com/cve/CVE-2019-11746/
+
+https://cwe.mitre.org/data/definitions/416.html
+
+### CVE-2019-11736
+
+https://nvd.nist.gov/vuln/detail/CVE-2019-11736
+
+https://www.cvedetails.com/cve/CVE-2019-11736/
+
+https://cwe.mitre.org/data/definitions/362.html
