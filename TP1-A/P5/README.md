@@ -9,4 +9,6 @@ Não existe muita informação sobre os CVE's listados no relatório da mozilla,
 > Logging-related command line parameters are not properly sanitized when Firefox is launched by another program, such as when a user clicks on malicious links in a chat application. This can be used to write a log file to an arbitrary location such as the Windows 'Startup' folder.
 Note: this issue only affects Firefox on Windows operating systems.
 
+https://cwe.mitre.org/data/definitions/20.html
+
 ##### Falta escolher mais duas CVE
