@@ -48,7 +48,9 @@ https://ciphers.pw/threads/teamkilled-new-teamspeak-crash.8144/
 
 ### WinRAR
 
-https://nvd.nist.gov/vuln/detail/CVE-2018-20252
+#### CVE-2018-20250
+
+https://nvd.nist.gov/vuln/detail/CVE-2018-20250
 
 https://research.checkpoint.com/extracting-code-execution-from-winrar/
 
