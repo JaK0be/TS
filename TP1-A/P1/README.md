@@ -55,3 +55,5 @@ https://nvd.nist.gov/vuln/detail/CVE-2018-20250
 https://research.checkpoint.com/extracting-code-execution-from-winrar/
 
 https://cwe.mitre.org/data/definitions/36.html
+
+https://www.youtube.com/watch?v=R2qcBWJzHMo
