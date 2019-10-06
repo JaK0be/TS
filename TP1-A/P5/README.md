@@ -24,6 +24,8 @@ https://www.cvedetails.com/cve/CVE-2019-11746/
 
 https://cwe.mitre.org/data/definitions/416.html
 
+https://www.cybersecurity-help.cz/vdb/SB2019091308
+
 ### CVE-2019-11736
 
 https://nvd.nist.gov/vuln/detail/CVE-2019-11736
