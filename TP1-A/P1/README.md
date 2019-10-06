@@ -35,3 +35,13 @@ https://bugs.python.org/issue36276
 https://www.inputzero.io/2019/04/evernote-cve-2019-10038.html
 
 https://nvd.nist.gov/vuln/detail/CVE-2019-10038
+
+### Teamspeak
+
+#### CVE-2019-15502
+
+https://nvd.nist.gov/vuln/detail/CVE-2019-15502
+
+https://www.youtube.com/watch?v=PlVbPIs75D4
+
+https://ciphers.pw/threads/teamkilled-new-teamspeak-crash.8144/
