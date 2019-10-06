@@ -45,3 +45,11 @@ https://nvd.nist.gov/vuln/detail/CVE-2019-15502
 https://www.youtube.com/watch?v=PlVbPIs75D4
 
 https://ciphers.pw/threads/teamkilled-new-teamspeak-crash.8144/
+
+### WinRAR
+
+https://nvd.nist.gov/vuln/detail/CVE-2018-20252
+
+https://research.checkpoint.com/extracting-code-execution-from-winrar/
+
+https://www.securityfocus.com/bid/106948 (Versões vulneráveis)
