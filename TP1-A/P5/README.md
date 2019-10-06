@@ -12,9 +12,12 @@ https://cwe.mitre.org/data/definitions/20.html
 
 https://www.cybersecurity-help.cz/vdb/SB2019090305?affChecked=1
 
+https://www.en24.news/2019/09/firefox-and-tor-browser-new-releases-increase-security.html
+
 https://en.wikipedia.org/wiki/Log_file
 
 https://www.techopedia.com/definition/9537/startup-folder
+
 
 ### CVE-2019-11746
 
