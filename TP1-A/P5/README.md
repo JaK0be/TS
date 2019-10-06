@@ -10,6 +10,12 @@ https://www.cvedetails.com/cve/CVE-2019-11751/
 
 https://cwe.mitre.org/data/definitions/20.html
 
+https://www.cybersecurity-help.cz/vdb/SB2019090305?affChecked=1
+
+https://en.wikipedia.org/wiki/Log_file
+
+https://www.techopedia.com/definition/9537/startup-folder
+
 ### CVE-2019-11746
 
 https://nvd.nist.gov/vuln/detail/CVE-2019-11746
