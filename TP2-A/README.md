@@ -12,4 +12,4 @@
 
 ## Nobrand
 
-[Criador site nobrand](https://www.linkedin.com/in/paulo-sousa-b782bb125/)
+[Criador/gestor site nobrand](https://www.linkedin.com/in/paulo-sousa-b782bb125/)
