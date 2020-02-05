@@ -1,7 +1,5 @@
 # TP3
 
-[Relatório](https://www.overleaf.com/7457192549twrzqdnrvbwx)
-
 [Libfuse](https://github.com/libfuse/libfuse)
 
 [Libfuse - Estruturas de Dados](http://libfuse.github.io/doxygen/annotated.html)
