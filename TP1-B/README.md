@@ -1,7 +1,5 @@
 # TP1-B
 
-[Link para o Relatório](https://www.overleaf.com/1732621952mnjpdgdrnhjb)
-
 [Link para o Modelo](https://app.creately.com/diagram/dZMftGiopaL/view)
 
 Adicionar o nome dos protocolos de comunicação ao diagrama como neste [exemplo](https://en.wikipedia.org/wiki/File:Operational_Threat_Model_PDF.jpg).
