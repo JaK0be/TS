@@ -5,8 +5,8 @@ import sys
 import os
 
 def sendEmail(sendTo, code):
-	email = 'tsfilesystem@gmail.com'
-	password = 'ts@f1lesystem'
+	email = 'email'
+	password = 'password'
 	send_to_email = sendTo
 	subject = 'Security Code'
 	message = str(code)
